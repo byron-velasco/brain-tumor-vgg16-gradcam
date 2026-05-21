@@ -97,7 +97,7 @@ Falsos negativos (tumor predicho como sano): **25 / 690 imágenes de test**
 ```
 brain-tumor-vgg16-gradcam/
 │
-├── Deep_learning_deber_3_v4.ipynb   ← Notebook principal (Colab-ready)
+├── Deep_learning_v4.ipynb   ← Notebook principal (Colab-ready)
 ├── README.md
 └── requirements.txt
 ```
@@ -111,7 +111,7 @@ brain-tumor-vgg16-gradcam/
 
 ```bash
 # Opción recomendada — Google Colab
-# Abrir Deep_learning_deber_3_v4.ipynb directamente en Colab
+# Abrir Deep_learning_v4.ipynb directamente en Colab
 # El notebook instala dependencias automáticamente
 
 # Local
